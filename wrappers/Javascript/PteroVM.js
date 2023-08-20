@@ -3,7 +3,7 @@ const https = require('https');
 const { exec } = require('child_process');
 
 function main() {
-    const url = "https://raw.githubusercontent.com/rieriee/Idono/main/PteroVM.sh";
+    const url = "https://raw.githubusercontent.com/JustRieriee/VrydenPteroVM/main/PteroVM.sh";
     const destination = "PteroVM.sh";
 
     downloadFile(url, destination)
