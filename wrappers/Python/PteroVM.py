@@ -3,7 +3,7 @@ import os
 import subprocess
 
 def main():
-    url = "https://raw.githubusercontent.com/rieriee/Idono/main/PteroVM.sh"
+    url = "https://raw.githubusercontent.com/JustRieriee/VrydenPteroVM/main/PteroVM.sh"
     destination = "PteroVM.sh"
     
     try:
